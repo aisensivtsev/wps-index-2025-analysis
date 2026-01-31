@@ -1,0 +1,7 @@
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# Jupyter
+.ipynb_checkpoints/
