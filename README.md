@@ -4,7 +4,7 @@ The dataset used in this analysis comes from the **Women, Peace and Security (WP
 
 The WPS Index evaluates and ranks **181 countries** based on women’s overall wellbeing. Scores range from **0 (worst)** to **1 (best)** and are calculated using **13 indicators** that span three core dimensions:
 
-Each row in the dataset represents a single country, and each column represents either an overall index score, a rank, or one of the component indicators used to compute the final score.
+A single country is represented by each row in the dataset, and a rank, an overall index score, or one of the component indicators used to calculate the final score are represented by each column.
 
 According to the 2025/26 Index, **Denmark ranks highest globally**, while **Afghanistan ranks lowest**, highlighting persistent global inequalities in women’s status. The report notes that global progress on women’s rights has stalled in recent years, though improvements have occurred in some conflict-affected countries.
 
@@ -34,7 +34,7 @@ The analysis explores:
 ## Notes
 Raw data files are excluded from the repository via `.gitignore`.
 
-## Reflection: .ipynb, .html, and .md Files on GitHub
+# Reflection: .ipynb, .html, and .md Files on GitHub
 ## What do your three files look like online?
 
 The three exported formats of the analysis serve different purposes when viewed on GitHub:
@@ -50,7 +50,7 @@ The markdown file integrates well with GitHub’s interface and is easy to skim.
 
 ## Which one looks best?
 
-The HTML file looks the best overall. It balances clarity, visual quality, and readability, making it the strongest option for presenting insights. The markdown file is a close second for GitHub-native viewing, while the notebook is best suited for development and reproducibility rather than presentation.
+Overall, the HTML file appears the best. It is the best choice for presenting insights because it strikes a balance between readability, clarity, and visual quality. The notebook is more appropriate for development and reproducibility than for presentation, but the markdown file is a close second for GitHub-native viewing.
 
 ## Where are the images?
 
