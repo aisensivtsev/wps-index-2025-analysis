@@ -51,7 +51,7 @@ quantify and are not directly measured in the dataset.
 
 
 # Reflection: .ipynb, .html, and .md Files on GitHub
-## What do your three files look like online?
+## What do three files look like online?
 
 The three exported formats of the analysis serve different purposes when viewed on GitHub:
 
