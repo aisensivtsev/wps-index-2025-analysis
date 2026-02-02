@@ -21,10 +21,19 @@ The dataset ranks 181 countries using indicators across inclusion, justice,
 and security.
 
 ## Data Analysis
-The analysis explores:
-- Distribution of the WPS Index across countries
-- Relationships between conflict exposure and women’s safety
-- Links between education, employment, and political representation
+This project uses **exploratory data analysis (EDA)** to examine cross-country patterns
+in women’s wellbeing, institutional inclusion, and security outcomes. The analysis
+focuses on identifying broad relationships between social, political, and conflict-related
+factors rather than making causal claims or predictions.
+
+## Key Insights
+- Countries with lower proximity to armed conflict generally achieve higher overall
+  Women, Peace, and Security Index scores.
+- Higher levels of education and employment tend to be associated with greater
+  parliamentary representation of women.
+- Indicators related to safety and legal protections vary widely across regions,
+  highlighting persistent global inequalities in women’s security and access to justice.
+
 
 ## Files
 - `analysis.ipynb` – exploratory data analysis and visualizations
@@ -33,6 +42,13 @@ The analysis explores:
 
 ## Notes
 Raw data files are excluded from the repository via `.gitignore`.
+
+## Limitations
+The WPS Index aggregates complex social, legal, and security indicators into a single
+composite score, which may mask within-country inequalities and regional variation.
+Additionally, cultural and historical influences on women’s status are difficult to
+quantify and are not directly measured in the dataset.
+
 
 # Reflection: .ipynb, .html, and .md Files on GitHub
 ## What do your three files look like online?
@@ -61,4 +77,8 @@ In the .html, images are fully embedded in the document itself.
 In the .md, images are stored in a separate directory (e.g., wps_index_2025_analysis_files/) and linked within the markdown file.
 
 This highlights how different export formats handle visual assets differently, even when generated from the same notebook.
+
+## How to View
+For the best viewing experience, open the `analysis.html` file directly in a web browser.
+The Jupyter Notebook (`.ipynb`) is included for transparency and reproducibility.
 
