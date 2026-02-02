@@ -68,6 +68,16 @@ The Markdown file integrates well with GitHub’s interface and is easy to skim.
 
 Overall, the HTML file is the strongest choice for presenting insights. It balances clarity, visual quality, and readability, making it well suited for audiences who want to focus on results rather than code.
 
+## Do You Think There Are Any Problems With the Dataset?
+
+This dataset is a data analyst's dream: 181 countries, 18 variables, and zero missing values. It’s incredibly rare to find global data this complete, I got extremely shocked.
+
+One minor practical issue was that the dataset initially contained many detailed column headings, which required cleaning and adjustment before importing it into the analysis environment. This was not a flaw in the data itself, but rather a formatting step needed to make the dataset easier to work with programmatically.
+
+## What Questions Do You Have About the Data?
+
+Do long-standing cultural and historical traditions—such as societies with Pagan or Tengrist heritage—show different Women, Peace, and Security Index outcomes compared to other countries, and are these cultural factors captured at all by the current indicators?
+
 ## Where the Images Are Stored
 
 In the .ipynb, images are embedded directly within the notebook outputs.
