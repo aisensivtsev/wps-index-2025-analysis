@@ -1,7 +1,10 @@
-# Data files
-*.csv
-*.xlsx
-*.json
+# Ignore data directories 
+data/clean/
+data/external/
 
-# Jupyter
+# Jupyter checkpoints
 .ipynb_checkpoints/
+
+# OS / Python
+__pycache__/
+.DS_Store
