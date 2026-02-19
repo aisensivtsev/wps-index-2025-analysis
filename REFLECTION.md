@@ -9,7 +9,7 @@ social outcomes.
 A few months ago, I began watching the television series *Vikings*, which portrays women
 in Scandinavian societies as respected members of their communities who held influence,
 participated in decision-making and had a visible voice in social and political life.
-This depiction stood in contrast to many other European societies of the same historical period
+This depiction stood in contrast to many other European societies of the same historical
 period, which are often described as more “advanced” but offer women significantly
 fewer rights and protections.
 
