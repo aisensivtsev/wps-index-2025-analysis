@@ -9,8 +9,8 @@ social outcomes.
 A few months ago, I began watching the television series *Vikings*, which portrays women
 in Scandinavian societies as respected members of their communities who held influence,
 participated in decision-making and had a visible voice in social and political life.
-This depiction stood in contrast to many other European societies of the same historical period
-period, which are often described as more “advanced” but offer women significantly
+This depiction stood in contrast to many other European societies of the same historical period,
+which are often described as more “advanced” but offer women significantly
 fewer rights and protections.
 
 This observation led me to reflect on the role of pre-Christian belief systems, such as
@@ -32,4 +32,17 @@ important role in how those laws are interpreted, enforced, and experienced in e
 life. This dataset allowed me to explore these ideas at a global scale and consider
 whether countries with different cultural, religious, and historical backgrounds show
 meaningful differences in women’s peace and security outcomes.
+
+The analysis offers initial evidence that supports this intuition. Countries with Pagan or
+Tengrist cultural heritage average a WPS Index score of approximately 0.87, compared to
+0.67 for all other countries — a gap of roughly 29 percentage points. Importantly, this
+pattern is not confined to wealthy Scandinavian nations: the Central Asian Tengrist countries
+(Mongolia, Kazakhstan, and Kyrgyzstan), which are not high-income economies, still score
+above the global mean. This suggests that cultural heritage may contribute independently
+of economic development to shaping the institutions and norms that protect and include women.
+
+Of course, this remains exploratory. The group is small, the causal mechanisms are difficult
+to isolate, and correlation is not causation. But the consistency of the pattern — across
+both the overall index and multiple sub-indicators — is striking enough to take seriously
+as a hypothesis for future research.
 

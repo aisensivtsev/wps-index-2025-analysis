@@ -25,17 +25,23 @@ Education and employment are often associated with greater parliamentary represe
 
 Indicators related to safety, legal protections, and justice vary widely across regions, underscoring persistent global inequalities in women’s security and rights.
 
+An exploratory cultural analysis reveals that countries with historical roots in Pagan or Tengrist traditions (including Scandinavian and Central Asian nations) average a WPS Index score of **0.87**, compared to **0.67** for all other countries — a gap of nearly 30%. Eight of these eleven countries rank in the global top 20. Notably, the pattern holds even for the lower-income Central Asian Tengrist countries (Mongolia, Kazakhstan, Kyrgyzstan), suggesting that cultural factors may play a role beyond economic development alone.
+
 These findings reinforce the idea that women’s wellbeing is shaped by multiple, interconnected dimensions rather than a single factor.
 
 ## Files Included in This Repository
 
 This repository contains three versions of the same analysis, each serving a different purpose:
 
-analysis.ipynb — The original Jupyter Notebook, including all code, explanations, and outputs.
+wps_index_2025_analysis.ipynb — The original Jupyter Notebook, including all code, explanations, and outputs.
 
-analysis.html — A rendered version of the notebook optimized for reading and presentation.
+wps_index_2025_analysis.html — A rendered version of the notebook optimized for reading and presentation.
 
-analysis.md — A Markdown export designed for GitHub preview and quick skimming.
+wps_index_2025_analysis.md — A Markdown export designed for GitHub preview and quick skimming.
+
+join_wps.ipynb — A supplementary notebook demonstrating how the WPS data was enriched via a left merge with an external country-level lookup dataset.
+
+wps_joined.csv — The merged dataset output, available in the results/ directory.
 
 ## Limitations of the Analysis
 
