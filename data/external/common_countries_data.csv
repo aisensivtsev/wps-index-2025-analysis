@@ -1,0 +1,182 @@
+Country,region,population,area_km2,gdp_usd_billions,income_level
+Denmark,Europe,1373168606,3735950,625.4,Low
+Iceland,Europe,590630971,8217507,5580.3,Upper Middle
+Norway,Europe,220116707,2917483,14762.4,High
+Sweden,Europe,68262793,1000128,2342.5,High
+Finland,Europe,499645468,16957209,15050.5,High
+Luxembourg,Europe,1205274595,6672184,17900.5,High
+Belgium,Europe,1170262923,14077049,5511.1,Upper Middle
+Netherlands,Europe,1265448422,9334831,20235.8,High
+Austria,Europe,13965983,5357577,17453.5,High
+New Zealand,Oceania,730692427,9324115,3887.1,Upper Middle
+Australia,Oceania,722841292,3429907,2318.7,Lower Middle
+Estonia,Europe,207706843,12045649,21187.4,High
+Ireland,Europe,1296501777,8876147,20178.2,High
+Slovenia,Europe,986617411,4188770,24327.9,High
+Lithuania,Europe,812906393,2644395,13801.1,High
+Canada,Americas,1350003687,12134757,14433.8,Upper Middle
+Latvia,Europe,149378553,1537911,16531.6,High
+Singapore,Asia,621465910,2677674,21383.0,High
+Switzerland,Europe,216908920,12755219,6949.4,High
+United Arab Emirates,Asia,1365131943,12242036,4066.4,Lower Middle
+Germany,Europe,762948025,7030189,16754.4,High
+Japan,Asia,1391655397,2396170,15228.3,Upper Middle
+France,Europe,367527440,8214791,4085.1,Upper Middle
+United Kingdom,Europe,814884363,9058245,24738.1,High
+Spain,Europe,1374399012,7369362,17115.4,Upper Middle
+Portugal,Europe,120135830,7685877,20545.1,High
+Poland,Europe,677440270,13461156,6693.6,Upper Middle
+Taiwan,Asia,453092198,10559137,5315.7,Upper Middle
+Serbia,Europe,1072100968,13275503,22117.1,High
+Malta,Europe,1380523881,15396813,3571.9,Lower Middle
+United States,Americas,299863838,8275745,18624.8,High
+Czechia,Europe,1157454916,8816445,18675.4,High
+Hungary,Europe,920064627,13401957,9050.0,Upper Middle
+Costa Rica,Americas,297075154,17097165,12337.9,High
+Uruguay,Americas,101191642,3679514,3821.1,High
+Moldova,Europe,343568720,14165637,14910.3,High
+South Korea,Asia,826291506,12805318,14897.3,High
+Bulgaria,Europe,1005139473,8436357,24277.0,High
+Italy,Europe,24665304,3844018,17042.8,High
+Seychelles,Africa,1153145002,8953467,19215.0,High
+Hong Kong,Asia,730531271,3743369,7337.6,Upper Middle
+Barbados,Americas,339651189,15224741,81.2,Low
+Romania,Europe,565633665,16797182,19049.1,High
+Mongolia,Asia,1090248094,3570854,21763.0,High
+Georgia,Asia,640915300,17034639,15224.3,High
+Slovakia,Europe,328229838,12546766,19062.8,High
+Argentina,Americas,1158317633,19489,14973.7,Upper Middle
+Croatia,Europe,1049282770,653831,2796.8,Lower Middle
+Grenada,Americas,779505258,10318761,5986.4,Upper Middle
+North Macedonia,Europe,517277796,2642948,2141.4,Lower Middle
+Suriname,Americas,1043666560,2322686,24449.6,High
+Cyprus,Europe,1143987779,4220122,3209.9,Lower Middle
+Guyana,Americas,1020671135,5541041,6626.5,Upper Middle
+Paraguay,Americas,1302660515,14198453,24109.1,High
+Bahrain,Asia,1158139533,6749809,17823.8,High
+Armenia,Asia,856839437,12530212,10952.6,Upper Middle
+Thailand,Asia,1111495658,15149661,3025.2,Lower Middle
+Oman,Asia,482543863,2148652,8452.2,High
+Bosnia and Herzegovina,Europe,1263393345,7721669,14711.0,Upper Middle
+Greece,Europe,15452219,2382432,17696.1,High
+Montenegro,Europe,126440448,7682311,1685.1,Upper Middle
+Cabo Verde,Africa,67468813,11087640,1771.5,High
+Belarus,Europe,511121062,9344446,16724.5,High
+Chile,Americas,460080045,4439948,18083.8,High
+Palau,Oceania,1226315709,15860507,6075.0,Upper Middle
+Saudi Arabia,Asia,1015711648,13658965,4760.3,Upper Middle
+Malaysia,Asia,208167333,14463977,8857.5,High
+Albania,Europe,882845422,15671047,21595.9,High
+Fiji,Oceania,116341731,3302655,1515.4,Upper Middle
+Kuwait,Asia,728656787,3666760,6216.5,Upper Middle
+Qatar,Asia,408480519,15053272,3504.6,Upper Middle
+Kazakhstan,Asia,394047563,9346724,11565.8,High
+Viet Nam,Asia,161897817,14869300,20200.6,High
+Turkmenistan,Asia,1181824609,3285571,1264.8,Low
+Russian Federation,Europe,1160913744,495491,24224.9,High
+Puerto Rico,Americas,507631088,5580774,10160.4,High
+Sri Lanka,Asia,1033719343,7172469,21616.3,High
+Maldives,Asia,125928568,5524605,9474.4,High
+Jamaica,Americas,838434338,8899037,23163.0,High
+Bolivia,Americas,977133037,9571675,10575.2,Upper Middle
+Peru,Americas,1193513386,16330282,3870.0,Lower Middle
+Kosovo,Europe,637185209,7305129,24217.7,High
+Lao PDR,Asia,1243790192,2045696,18699.4,High
+Israel,Asia,122771493,1682797,14604.5,High
+Kyrgyzstan,Asia,1079872962,5282865,1422.1,Lower Middle
+Panama,Americas,1090563393,2688394,21283.6,High
+El Salvador,Americas,147158436,2280688,16880.3,High
+Jordan,Asia,505106523,13548759,2997.3,Upper Middle
+China,Asia,1223378636,8261916,14473.0,Upper Middle
+Samoa,Oceania,85354575,2751206,10480.7,High
+Tajikistan,Asia,1253436694,10615910,23367.7,High
+Tonga,Oceania,438653292,10542561,5967.2,Upper Middle
+Trinidad and Tobago,Americas,849953635,4391846,16792.3,High
+Gabon,Africa,644248817,15342210,7904.5,Upper Middle
+Mauritius,Africa,155795153,312874,11457.2,High
+Indonesia,Asia,1209029634,3355114,1831.6,Lower Middle
+Dominican Republic,Americas,457755397,16974973,6630.1,High
+Uzbekistan,Asia,749500764,2308553,21981.8,High
+Bhutan,Asia,793563385,9562890,3943.8,Upper Middle
+Tunisia,Africa,1166561686,10151090,15292.0,Upper Middle
+Marshall Islands,Oceania,1135901495,262799,16696.6,High
+Morocco,Africa,1191009339,10045783,23293.9,High
+Timor-Leste,Asia,222460317,4506362,6611.7,High
+Belize,Americas,229868004,5216266,6808.8,High
+Cambodia,Asia,1298872165,7067858,17940.3,Upper Middle
+Türkiye,Asia,437231893,8858129,12635.3,High
+Nicaragua,Americas,539288776,1704828,2307.6,Lower Middle
+Botswana,Africa,909632041,9284147,1102.3,Lower Middle
+Solomon Islands,Oceania,716317211,4389879,15927.9,High
+Senegal,Africa,562554654,5422091,18530.8,High
+Azerbaijan,Asia,1184734684,14351091,14022.7,Upper Middle
+Kiribati,Oceania,240257332,2525064,23626.3,High
+Federated States of Micronesia,Oceania,320101645,1209203,20864.9,High
+South Africa,Africa,1250939768,4969502,10744.7,Upper Middle
+Vanuatu,Oceania,89836799,10343733,9116.4,High
+Ukraine,Europe,85683587,12006385,5252.0,High
+Ghana,Africa,535871027,3449481,8842.0,High
+Venezuela,Americas,1202350699,13636062,24345.9,High
+Brazil,Americas,331910766,7943886,21615.2,High
+Nepal,Asia,380227064,13834604,619.8,Lower Middle
+Rwanda,Africa,713372851,13815101,20055.9,High
+Tanzania,Africa,532945089,8952814,3980.0,Upper Middle
+Algeria,Africa,232143587,12836270,21804.2,High
+São Tomé and Príncipe,Africa,1010809122,7463937,4989.4,Upper Middle
+Egypt,Africa,988503674,11732889,7629.8,Upper Middle
+Lesotho,Africa,488767597,7480373,591.7,Lower Middle
+Ecuador,Americas,414753067,13370599,8206.6,High
+Iran,Asia,149089928,9366180,8778.7,High
+Libya,Africa,1093950357,13411281,16988.0,High
+Namibia,Africa,1151524515,11111845,23480.9,High
+India,Asia,247704515,8765227,4464.3,High
+Philippines,Asia,570094674,1283998,2710.2,Upper Middle
+Angola,Africa,933228566,11599634,18213.7,High
+Sierra Leone,Africa,673626911,14643248,15155.3,High
+Comoros,Africa,1098282662,3880728,9629.9,Upper Middle
+Zimbabwe,Africa,1238223398,6378285,6368.1,Upper Middle
+Côte d'Ivoire,Africa,936436394,57049,12998.1,High
+Benin,Africa,1156326854,6611701,9105.6,Upper Middle
+Uganda,Africa,150277605,11079974,15578.9,High
+Congo,Africa,267640827,10077443,12678.1,High
+Lebanon,Asia,877027098,10945182,10060.1,Upper Middle
+Zambia,Africa,634924704,4271369,4796.1,Upper Middle
+Togo,Africa,814218287,5839688,15387.9,High
+Guatemala,Americas,646294941,13625921,13698.5,High
+Honduras,Americas,881749,10196651,7172.9,High
+Djibouti,Africa,923187764,10813189,11624.8,Upper Middle
+Mexico,Americas,949540932,7170929,12779.4,Upper Middle
+Eswatini,Africa,364419490,2845566,7094.7,High
+Colombia,Americas,1359240139,11247351,2334.8,Lower Middle
+Malawi,Africa,504386471,10416248,5616.1,Upper Middle
+Mozambique,Africa,427638276,4944678,610.7,Lower Middle
+Kenya,Africa,525805353,15943230,15281.9,High
+Gambia,Africa,156407432,15281530,10361.1,High
+Guinea,Africa,1352420862,6524463,17958.7,Upper Middle
+Bangladesh,Asia,824597483,16588845,9991.4,Upper Middle
+Ethiopia,Africa,316917042,186353,22316.5,High
+Liberia,Africa,228904474,14265839,5471.1,High
+Iraq,Asia,1112315801,15588007,1255.6,Low
+Guinea-Bissau,Africa,535159219,4072418,11411.6,High
+Burkina Faso,Africa,997823759,10647052,23751.0,High
+Papua New Guinea,Oceania,950429194,16937844,10668.6,Upper Middle
+Nigeria,Africa,1176556061,14962677,22430.2,High
+Niger,Africa,1019365588,15102135,6479.9,Upper Middle
+Mali,Africa,530953288,9305324,19145.4,High
+Chad,Africa,1119492825,16260677,15668.7,High
+Mauritania,Africa,589703527,14759975,1937.2,Lower Middle
+Palestine,Asia,613606536,7868598,6793.0,Upper Middle
+Madagascar,Africa,686581058,2704037,3459.4,Upper Middle
+Pakistan,Asia,496640252,12852831,17348.8,High
+Somalia,Africa,459470310,2155462,10371.8,High
+Cameroon,Africa,710572369,15634125,10394.4,High
+Myanmar,Asia,444183470,14097977,9737.0,High
+South Sudan,Africa,1254310987,655683,21418.3,High
+Burundi,Africa,1236295615,12763769,11924.5,Upper Middle
+Democratic Republic of the Congo,Africa,755406286,10020077,18836.9,High
+Haiti,Americas,899851350,7400350,12205.8,Upper Middle
+Sudan,Africa,586134123,14624528,12141.1,High
+Syrian Arab Republic,Asia,835074486,11278935,16721.9,High
+Central African Republic,Africa,868273439,5538282,21012.7,High
+Yemen,Asia,274088593,905143,22673.2,High
+Afghanistan,Asia,1271090060,909693,2098.8,Lower Middle
